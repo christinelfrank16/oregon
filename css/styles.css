@@ -1,7 +1,7 @@
 .panelImage {
-  float: right;
-  width: 600px;
-  height: 450px;
+  /* float: right; */
+  width: 60%;
+  height: 60%;
 }
 
 body {
