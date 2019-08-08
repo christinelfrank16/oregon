@@ -1,7 +1,9 @@
 .panelImage {
   /* float: right; */
+  display: block;
   width: 60%;
   height: 60%;
+  margin: auto;
 }
 
 body {
@@ -26,4 +28,24 @@ body {
 
 .quote {
   margin-top: 20px;
+}
+div > li{
+  list-style: none;
+  font-weight: bold;
+}
+
+.card{
+  border: 2px solid grey;
+  width: 286px;
+  text-align: center;
+  padding: 2px;
+}
+
+.card-img-top {
+  width: 278px;
+}
+
+.col-md-6 {
+  padding-left: 10%;
+  padding-right: 10%;
 }
