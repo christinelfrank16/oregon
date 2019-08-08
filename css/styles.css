@@ -20,6 +20,7 @@ body {
   background-size: cover;
   background-position: center;
   color: #f9faf7;
+  margin-top: 20px;
 }
 
 .jumbotron h1 {
@@ -48,4 +49,5 @@ div > li{
 .col-md-6 {
   padding-left: 10%;
   padding-right: 10%;
+  text-align: center;
 }
