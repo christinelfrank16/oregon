@@ -7,3 +7,19 @@
 body {
   background-color: #C1D6A7;
 }
+
+.panel-body {
+  background-color: #E7ECE2;
+}
+
+.jumbotron {
+  background-image: url("../img/paintedhills.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #f9faf7;
+}
+
+.jumbotron h1 {
+  opacity: 0.8;
+}
